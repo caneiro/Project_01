@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "connectionMethod": "Hostname and Token",
+            "catalog": "eph_lakehouse_dev",
+            "previewLimit": 50,
+            "driver": "Databricks",
+            "path": "/sql/1.0/warehouses/009c2da979a844d0",
+            "host": "adb-7270642288828224.4.azuredatabricks.net",
+            "name": "eph_lakehouse_dev"
+        }
+    ]
+}
